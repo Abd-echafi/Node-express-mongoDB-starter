@@ -31,22 +31,6 @@ Replace `{{URL}}` with your deployed backend URL (e.g., `http://localhost:3000`)
 
 ---
 
-## 📁 Folder Structure (Suggested)
-
-project-root/
-├── controllers/
-├── routes/
-├── models/
-├── middleware/
-├── utils/
-├── config/
-├── .env
-├── app.js or index.js
-└── README.md
-
-
----
-
 ## 🛠️ Technologies Used
 
 - Node.js
@@ -81,4 +65,6 @@ npm install
   CLIENT_URL=http://localhost:3000
 
 # Start in development mode
+```bash
 npm run dev
+```
