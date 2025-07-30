@@ -57,12 +57,12 @@ npm install
 ```
 
 ## 🔐 Environment Variables
-  PORT=3000
-  MONGO_URI=your_mongodb_connection_string
-  JWT_SECRET=your_jwt_secret_key
-  EMAIL_USER=your_email_address
-  EMAIL_PASS=your_email_password
-  CLIENT_URL=http://localhost:3000
+- PORT=3000
+- MONGO_URI=your_mongodb_connection_string
+- JWT_SECRET=your_jwt_secret_key
+- EMAIL_USER=your_email_address
+- EMAIL_PASS=your_email_password
+- CLIENT_URL=http://localhost:3000
 
 # Start in development mode
 ```bash
